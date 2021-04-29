@@ -8,4 +8,4 @@ Steps:
 2. Aggregate to weekly vaccinations and format for forecast, separating incrementals and cumulative (lagged) vaccinations
 3. Run regression analysis to estimate model coefficients; calculate Bass parameters p and q (assume m)
 4. Forecast using p, q, m, and cumulative (lagged) vaccinations
-5. Plot forecast and output weekly forecast table 
+5. Plot forecast and output weekly forecast table "weekly_vaccinations_forecast.csv"
